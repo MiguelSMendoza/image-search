@@ -5,7 +5,7 @@ var JSONStream = require('JSONStream')
 var mongoURL = 'mongodb://localhost:27017/image-search';
 var fs = require('fs');
 
-var search = new Search('cuR8fC8racVWO1W6eTJHd3/Edz5ST/P5xOxZ/dyceLs');
+var search = new Search('APP');
 
 var app = express();
 
